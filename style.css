@@ -139,6 +139,15 @@ table {
     border-collapse: collapse;
     margin-top: 5px;
 }
+.attribution {
+    font-size: 0.7rem;
+    text-align: center;
+    padding: 30px;
+    color: hsl(30, 10%, 34%);
+}
+.attribution a{
+    color: hsl(30, 10%, 34%);
+}
 
 @media(min-width:765px) {
     main {
